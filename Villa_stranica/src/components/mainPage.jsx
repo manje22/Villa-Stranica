@@ -1,6 +1,6 @@
 import Amenities from "./Amenities"
 import MovingGallery from "./MovingGallery"
-
+import { useNavigate } from "react-router-dom"
 function MainPage(){
     return(
         <div>
